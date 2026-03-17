@@ -1,0 +1,1 @@
+This script simulates rolling a six-sided die 1,000 times. It generates random data, processes it into discrete "faces," and summarizes the results in a formatted table to show the distribution of rolls.
